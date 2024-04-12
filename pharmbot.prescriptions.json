@@ -1,0 +1,42 @@
+[{
+  "patient": {
+    "name": "John Smith",
+    "address": "1662 Emply St, NY, NY",
+    "age": 34
+  },
+  "prescription": [
+    {
+      "drug": "Beta-blocker",
+      "dosage": "100 mg",
+      "quantity": "1 tab",
+      "_id": {
+        "$oid": "66128809f378c67363c5980b"
+      }
+    },
+    {
+      "drug": "Doxazosin",
+      "dosage": "10 mg",
+      "quantity": "1 tab",
+      "_id": {
+        "$oid": "66128809f378c67363c5980c"
+      }
+    },
+    {
+      "drug": "Cimetidine",
+      "dosage": "50 mg",
+      "quantity": "2 tabs",
+      "_id": {
+        "$oid": "66128809f378c67363c5980d"
+      }
+    },
+    {
+      "drug": "Oxeprolol",
+      "dosage": "50 mg",
+      "quantity": "1 tab",
+      "_id": {
+        "$oid": "66128809f378c67363c5980e"
+      }
+    }
+  ],
+  "__v": 0
+}]
